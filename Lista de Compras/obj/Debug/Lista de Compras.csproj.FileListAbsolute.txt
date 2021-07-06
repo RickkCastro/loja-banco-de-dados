@@ -1,0 +1,20 @@
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\bin\Debug\Lista de Compras.exe.config
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\bin\Debug\Lista de Compras.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\bin\Debug\Lista de Compras.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista de Compras.csprojAssemblyReference.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista_de_Compras.Properties.Resources.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista de Compras.csproj.GenerateResource.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista de Compras.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista de Compras.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Lista de Compras\obj\Debug\Lista_de_Compras.vater_app.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\bin\Debug\Lista de Compras.exe.config
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\bin\Debug\Lista de Compras.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\bin\Debug\Lista de Compras.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista de Compras.csproj.AssemblyReference.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista_de_Compras.vater_app.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista_de_Compras.Properties.Resources.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista de Compras.csproj.GenerateResource.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista de Compras.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Lista de Compras\obj\Debug\Lista de Compras.pdb
